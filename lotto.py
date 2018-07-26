@@ -20,9 +20,9 @@ today =random.sample(range(1,47),6)
 #print(today)
 
 print("오늘의 추첨번호는"
-+str(today[0]) +" ,"
-+str(today[1]) + " ,"
-+str(today[2]) +" ,"
-+str(today[3]) +" ,"
-+str(today[4]) +" ,"
++str(today[0]) +", "
++str(today[1]) + ", "
++str(today[2]) +", "
++str(today[3]) +", "
++str(today[4]) +", "
 +str(today[5]) +" 입니다")
